@@ -37,7 +37,7 @@ I am a front-end developer with an emphasis on UX design and creating engaging e
   <a href="https://codepen.io/racheldstull" target="_blank"><img src="https://img.icons8.com/color/50/000000/codepen.png" alt="Codepen Logo" width="40" height="40"/></a> 
 </p>
 
-### My Achievments 
+### My Achievements 
 <a href='https://archiveprogram.github.com/'><img src='https://github.githubassets.com/images/modules/profile/badge--acv-64.png' width='44' height='47'></a>
 
 <hr>
