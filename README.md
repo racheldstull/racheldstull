@@ -8,6 +8,7 @@ I am a front-end developer with an emphasis on UX design and creating engaging e
 - 🌱 I’m currently learning React 
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I orignally wanted to be a Japanese language teacher, but the call of web development was  far too compelling
+- 🤙 Best Contact Method: <a href="https://www.linkedin.com/in/racheldstull/" target="_blank">LinkedIn</a> 
 
 ### Languages and Tools
 
