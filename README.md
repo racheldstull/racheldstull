@@ -5,7 +5,7 @@ I am a front-end developer with an emphasis on UX design and creating engaging e
 ### About Me
 
 - 🔭 I’m currently working on my own company. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React and Custom WordPress Themes
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I orignally wanted to be a Japanese language teacher, but the call of web development was  far too compelling
 - 🤙 Best Contact Method: <a href="https://www.linkedin.com/in/racheldstull/" target="_blank">LinkedIn</a> 
