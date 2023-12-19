@@ -1,14 +1,12 @@
 ### Hi there 👋, I'm Rachel Stull
-#### Web Design and Development
-I am a front-end developer with an emphasis on UX design and creating engaging experiences. I have a background in user experience, game development, graphic design, photography, and Japanese.
+#### Web Development
+I am a front-end developer with an emphasis on accessibility, UX, and creating engaging experiences. I also have experience working in human-computer interaction/user experience and game development.
 
 ### About Me
 
-- 🔭 I’m currently working on my own company. 
-- 🌱 I’m currently learning React and Custom WordPress Themes
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I orignally wanted to be a Japanese language teacher, but the call of web development was  far too compelling
-- 🤙 Best Contact Method: <a href="https://www.linkedin.com/in/racheldstull/" target="_blank">LinkedIn</a> 
+- ⚡ Fun fact: I originally wanted to be a Japanese language teacher, but the call of web development was  far too compelling
+- 🤙 Best Contact Method: <a href="https://twitter.com/racheldstull" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/racheldstull/" target="_blank">LinkedIn</a> 
 
 ### Languages and Tools
 
