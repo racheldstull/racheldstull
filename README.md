@@ -18,10 +18,14 @@ I am a full-stack developer with an emphasis on accessibility, UX, and creating 
   <a href="https://sass-lang.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/sass.png" alt="SASS Logo" width="40" height="40" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/bootstrap.png" alt="Bootstrap Logo" width="40" height="40" /></a>
   <a href="https://jquery.com/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-jquery-is-a-javascript-library-designed-to-simplify-html-logo-color-tal-revivo.png" alt="jQuery Logo" width="35" height="35" /></a>
-  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine Logo" width="40" height="40" /></a>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/unity.png" alt="Unity Logo" width="40" height="40" /></a>
+</p>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/figma--v1.png" alt="Figma Logo" width="40" height="40" /></a>
   <a href="https://webflow.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/webflow.png" alt="Webflow Logo" width="40" height="40" /></a>
+</p>
+<p align="left">
+  <a href="https://www.unrealengine.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/unreal-engine.png" alt="Unreal Engine Logo" width="40" height="40" /></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/unity.png" alt="Unity Logo" width="40" height="40" /></a>
 </p>
 
 ### Connect With Me
@@ -58,16 +62,4 @@ I am a full-stack developer with an emphasis on accessibility, UX, and creating 
 
   <br>
   <br>
-
-  <a href="https://github.com/racheldstull/github-readme-activity-graph">
-      <img alt="Rachel Stull's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=racheldstull&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-  </a>
 </p>
-
-<hr>
-
-![Profile views](https://gpvc.arturio.dev/racheldstull)  
-
-<!-- 
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
--->
