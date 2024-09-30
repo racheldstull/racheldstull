@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Rachel Stull
 #### Web Development
-I am a front-end developer with an emphasis on accessibility, UX, and creating engaging experiences. I also have experience working in human-computer interaction/user experience and game development.
+I am a full-stack developer with an emphasis on accessibility, UX, and creating engaging experiences. I also have experience working in human-computer interaction/user experience and game development.
 
 ### About Me
 
-- 😄 Pronouns: she/her 
 - ⚡ Fun fact: I originally wanted to be a Japanese language teacher, but the call of web development was  far too compelling
 - 🤙 Best Contact Method: <a href="https://twitter.com/racheldstull" target="_blank">Twitter</a> or <a href="https://www.linkedin.com/in/racheldstull/" target="_blank">LinkedIn</a> 
 
